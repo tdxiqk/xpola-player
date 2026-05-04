@@ -1,9 +1,5 @@
 #EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
+http://deltafetch4k.org:2052/35566268841986/11013581016082/677030
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index__6.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index__5.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
-https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index__4.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
-https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index__3.m3u8
+http://deltafetch4k.org:2052/35566268841986/11013581016082/677039
